@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dc143c</color>
+    <color name="colorPrimaryDark">#8B0000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="DarkRed">#8B0000</color>
+</resources>
